@@ -1,4 +1,5 @@
-![Logo](https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/logo.webp)
+## Logo
+<img src="https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/logo.webp" alt="Logo" style="display: block; margin: 0 auto 20px 0; width: 150px;"/>
 
 # Cat Facts (Jetpack Compose)
 
