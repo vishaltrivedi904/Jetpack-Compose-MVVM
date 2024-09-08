@@ -2,15 +2,6 @@
 
 Cat Fact is an Android app built with Jetpack Compose that provides information about various cat breeds. The app utilizes modern Android architecture components and libraries to deliver a smooth and efficient user experience.
 
-<div style="display: flex; flex-direction:row; gap: 10px; overflow-x: auto;">
-    <img src="https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/Screenshot-1.jpeg" alt="Home Screen" style="flex: 1; max-width: 24%; height: auto;"/>
-    <img src="https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/Screenshot-2.jpeg" alt="Breed Detail" style="flex: 1; max-width: 24%; height: auto;"/>
-    <img src="https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/Screenshot-3.jpeg" alt="Cat Facts Screen" style="flex: 1; max-width: 24%; height: auto;"/>
-    <img src="https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/Screenshot-4.jpeg" alt="Cat Facts Screen" style="flex: 1; max-width: 24%; height: auto;"/>
-</div>
-
-
-
 ## Main Features
 
 - **Breed List:** View a paginated list of cat breeds.
