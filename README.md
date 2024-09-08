@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/vishaltrivedi904/Jetpack-Compose-MVVM/main/screenshots/logo.webp)
+
 # Cat Facts (Jetpack Compose)
 
 Cat Fact is an Android app built with Jetpack Compose that provides information about various cat breeds. The app utilizes modern Android architecture components and libraries to deliver a smooth and efficient user experience.
